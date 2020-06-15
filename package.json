@@ -1,0 +1,23 @@
+{
+  "name": "practice-backstopjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "backstopjs": "^5.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/utgwkk/practice-backstopjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/utgwkk/practice-backstopjs/issues"
+  },
+  "homepage": "https://github.com/utgwkk/practice-backstopjs#readme"
+}
