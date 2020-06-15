@@ -25,4 +25,4 @@ jobs:
       if: failure()
       with:
         name: report
-        path: backstop_data/*_*[te] # Very tricky
+        path: backstop_data/!engine_script
