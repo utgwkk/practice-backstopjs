@@ -20,12 +20,6 @@ jobs:
 
     - run: npm test
 
-    - name: Upload HTML Report
-      uses: actions/upload-artifact@v2
-      with:
-        name: html_report
-        path: backstop_data/html_report
-
     - name: Upload Report
       uses: actions/upload-artifact@v2
       if: failure()
